@@ -14,20 +14,16 @@
 </div>
   
   ##
+<div  style="display: block">
 
-<div style="width: full">
+  <p style="display: block; text-align: center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaolucasgomesnog&show_icons=true&locale=pt-br&layout=compact&theme=dark" alt="joaolucasgomesnog" /> </p>
 
-  <p style="display: block; text-align: center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaolucasgomesnog&show_icons=true&locale=en&layout=compact"         alt="joaolucasgomesnog" /> </p>
-  
   
 <div/>
 
 
-
-
- ##
  
-<div style="width: full"> 
+<div style="display: block"> 
 
   <a href="https://www.instagram.com/eu_jlucas_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasgomes145987@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
