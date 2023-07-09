@@ -16,7 +16,7 @@
   ##
 <div  style="display: block">
 
-  <p style="display: block; text-align: center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaolucasgomesnog&show_icons=true&locale=pt-br&layout=compact&theme=dark" alt="joaolucasgomesnog" /> </p>
+  <p style="display: block; text-align: center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaolucasgomesnog&show_icons=true&locale=pt-br&layout=compact&theme=transparent" alt="joaolucasgomesnog" /> </p>
 
   
 <div/>
